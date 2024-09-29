@@ -1,0 +1,123 @@
+.row{
+    display: inline;
+}
+.content-partner{
+   width: 600px;
+   
+}
+
+.professional-section {
+    background-color: #f00;
+    color: #fff;
+    padding: 2rem;
+    border-radius: 10px;
+    margin-top: 2rem;
+}
+.professional-section h2 {
+    font-size: 1.5rem;
+    font-weight: bold;
+}
+.professional-section p {
+    font-size: 1rem;
+    line-height: 1.5;
+}
+.stats-section {
+    background-color: #f8f8f8;
+    padding: 2rem 0;
+    margin-top: 2rem;
+}
+.stats-section .stat {
+    text-align: center;
+}
+.stats-section .stat h3 {
+    font-size: 1.5rem;
+    font-weight: bold;
+}
+.stats-section .stat p {
+    font-size: 1rem;
+    line-height: 1.5;
+}
+.footer {
+    background-color: #f00;
+    color: #fff;
+    padding: 2rem 0;
+    text-align: center;
+}
+.footer a {
+    color: #fff;
+    text-decoration: underline;
+}
+header {
+    margin-bottom: 2rem;
+}
+
+
+.item {
+    margin-left: 2rem;
+    margin-right: 2rem;
+}
+
+
+.enrollNow {
+    margin-right: 10px;
+}
+
+
+.hero-section {
+    padding: 2rem;
+}
+
+
+.stats-section {
+    background-color: #f8f8f8;
+    padding: 2rem 0;
+    margin-top: 2rem;
+    display: flex; 
+    justify-content: space-around; 
+
+.stat {
+    flex: 1; 
+    text-align: center; 
+    margin: 0 1rem; 
+}
+
+.footer {
+    text-align: center;
+    margin-top: 2rem;
+}
+
+.footer p {
+    margin-bottom: 1rem;
+}
+
+
+.content-partner img,
+.professional-section img {
+    margin-right: 1rem;
+}
+
+.about-course,
+.mentor-section {
+    margin-bottom: 2rem;
+}
+
+.mentor-section img {
+    width: 100%;
+    max-width: 300px;
+    margin-bottom: 1rem;
+}
+
+.professional-section {
+    padding: 2rem 0;
+}
+
+.professional-section h2 {
+    margin-bottom: 1rem;
+}
+
+.card {
+    margin-top: 2rem;
+}
+.registration{
+    background-color: #f00;
+}}
